@@ -1,0 +1,10 @@
+c:\users\new person\source\repos\Challange2\C2Database\bin\Debug\C2Database.dacpac
+c:\users\new person\source\repos\Challange2\C2Database\bin\Debug\C2Database.dll
+c:\users\new person\source\repos\Challange2\C2Database\bin\Debug\C2Database.pdb
+c:\users\new person\source\repos\Challange2\C2Database\obj\Debug\C2Database.sqlprojResolveAssemblyReference.cache
+c:\users\new person\source\repos\Challange2\C2Database\obj\Debug\Model.xml
+c:\users\new person\source\repos\Challange2\C2Database\obj\Debug\refactor.xml
+c:\users\new person\source\repos\Challange2\C2Database\obj\Debug\postdeploy.sql
+c:\users\new person\source\repos\Challange2\C2Database\obj\Debug\predeploy.sql
+c:\users\new person\source\repos\Challange2\C2Database\obj\Debug\C2Database.dll
+c:\users\new person\source\repos\Challange2\C2Database\obj\Debug\C2Database.pdb
